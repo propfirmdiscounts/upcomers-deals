@@ -69,4 +69,4 @@ This repository tracks all historical deals for **Upcomers** published on PropFi
 
 ---
 
-Last synced: 2026-10-29T04:54:06Z (auto, hourly)
+Last synced: 2026-10-29T06:33:56Z (auto, hourly)
