@@ -1,325 +1,401 @@
 [
   {
+    "prop_firm": "Upcomers",
+    "prop_firm_slug": "upcomers",
+    "standing_code": "PFD",
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 12806,
     "title": "Black Friday 90% Off & Bonus Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2026-09-21",
+    "date_exp": "Ended",
     "discount_value": "90%",
+    "last_verified": "2026-09-21",
+    "offer_type": "coupon",
     "scope": [
       "Classic Challenge Accounts, New Customers"
     ],
-    "date_published": "2026-09-21",
-    "date_exp": "Ended",
-    "last_verified": "2026-09-21",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 12653,
     "title": "Free Bonus Account on $50K+ Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2026-09-15",
+    "date_exp": "Ended",
     "discount_value": "Free Bonus Account",
+    "last_verified": "2026-09-15",
+    "offer_type": "coupon",
     "scope": [
       "$50K+ Evaluation Accounts"
     ],
-    "date_published": "2026-09-15",
-    "date_exp": "Ended",
-    "last_verified": "2026-09-15",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 12805,
     "title": "90% Off Perpetuals Evaluation Cost",
-    "offer_type": "coupon",
+    "date_published": "2026-09-03",
+    "date_exp": "Ended",
     "discount_value": "90%",
+    "last_verified": "2026-09-03",
+    "offer_type": "coupon",
     "scope": [
       "Perpetuals Launch, Thunderbolt Classic, Phoenix Classic, Vanguard"
     ],
-    "date_published": "2026-09-03",
-    "date_exp": "Ended",
-    "last_verified": "2026-09-03",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11948,
     "title": "Spring Friday Up to 90% Off Challenge Fees Up To $1,500,000",
-    "offer_type": "coupon",
+    "date_published": "2026-05-14",
+    "date_exp": "Ended",
     "discount_value": "90%",
+    "last_verified": "2026-05-14",
+    "offer_type": "coupon",
     "scope": [
       "Evaluation Accounts Up To $1,500,000"
     ],
-    "date_published": "2026-05-14",
-    "date_exp": "Ended",
-    "last_verified": "2026-05-14",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11701,
     "title": "80% Off and Second Evaluation Included on Legacy Challenges Entry Cost",
-    "offer_type": "coupon",
+    "date_published": "2026-04-15",
+    "date_exp": "Ended",
     "discount_value": "80%",
+    "last_verified": "2026-04-15",
+    "offer_type": "coupon",
     "scope": [
       "Legacy Challenges"
     ],
-    "date_published": "2026-04-15",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-15",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-bogo-legacy-challenges/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11675,
     "title": "80% Off Evaluation Accounts and Increased Drawdowns",
-    "offer_type": "coupon",
+    "date_published": "2026-04-10",
+    "date_exp": "Ended",
     "discount_value": "80%",
+    "last_verified": "2026-04-10",
+    "offer_type": "coupon",
     "scope": [
       "Thunderbolt, Phoenix, Astral, Obsidian, Eon Models"
     ],
-    "date_published": "2026-04-10",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-10",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-drawdown-updates/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11662,
     "title": "Up to 80% Off ASH Half-Step Trading Challenges",
-    "offer_type": "coupon",
+    "date_published": "2026-04-08",
+    "date_exp": "Ended",
     "discount_value": "80%",
+    "last_verified": "2026-04-08",
+    "offer_type": "coupon",
     "scope": [
       "Ash Half-Step, New Users, Existing Users, $5K To $1M"
     ],
-    "date_published": "2026-04-08",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-08",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-off-ash-half-step-discount/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11654,
     "title": "80% Off Hypernova Instant Funding Accounts From $5K To $200K",
-    "offer_type": "coupon",
+    "date_published": "2026-04-06",
+    "date_exp": "Ended",
     "discount_value": "80%",
+    "last_verified": "2026-04-06",
+    "offer_type": "coupon",
     "scope": [
       "Hypernova Instant Funding Accounts, $5K To $200K Accounts"
     ],
-    "date_published": "2026-04-06",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-06",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-hypernova-discount/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11556,
     "title": "80% Discount on Vanguard and Oracle Instant Funding Models",
-    "offer_type": "coupon",
+    "date_published": "2026-04-01",
+    "date_exp": "Ended",
     "discount_value": "80%",
+    "last_verified": "2026-04-01",
+    "offer_type": "coupon",
     "scope": [
       "Vanguard Instant Funding, Oracle Instant Funding"
     ],
-    "date_published": "2026-04-01",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-01",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-discount-vanguard-oracle/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11331,
     "title": "Spring Promotion: Up to 85% Off and Buy 1 Get 1 Free Accounts Up to $1,000,000",
-    "offer_type": "coupon",
+    "date_published": "2026-03-04",
+    "date_exp": "Ended",
     "discount_value": "85%",
+    "last_verified": "2026-03-04",
+    "offer_type": "coupon",
     "scope": [
       "Up To $1,000,000 Accounts, Spring Sale, Bogo"
     ],
-    "date_published": "2026-03-04",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-04",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-spring-promotion-85-off-bogo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 11210,
     "title": "Vanguard Instant Funding Accounts Start at $99",
-    "offer_type": "deal",
+    "date_published": "2026-02-19",
+    "date_exp": "Ended",
     "discount_value": "Only $99",
+    "last_verified": "2026-02-19",
+    "offer_type": "deal",
     "scope": [
       "Vanguard Instant Funding Accounts"
     ],
-    "date_published": "2026-02-19",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-19",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-vanguard-instant-funding-99/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 10753,
     "title": "Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement",
-    "offer_type": "coupon",
+    "date_published": "2026-01-22",
+    "date_exp": "Ended",
     "discount_value": "90%",
+    "last_verified": "2026-01-22",
+    "offer_type": "coupon",
     "scope": [
       "Evaluation Accounts, All Programs"
     ],
-    "date_published": "2026-01-22",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-22",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 10694,
     "title": "Challenge Pricing: 75% Off + Buy 1 Get 1 Free",
-    "offer_type": "coupon",
+    "date_published": "2026-01-13",
+    "date_exp": "Ended",
     "discount_value": "75%",
+    "last_verified": "2026-01-13",
+    "offer_type": "coupon",
     "scope": [
       "All Programs"
     ],
-    "date_published": "2026-01-13",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-13",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-75-off-bogo-promotion/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 10629,
     "title": "Christmas Sale: 85% OFF Entry Fee + BOGO Account",
-    "offer_type": "coupon",
+    "date_published": "2026-01-05",
+    "date_exp": "Ended",
     "discount_value": "85%",
+    "last_verified": "2026-01-05",
+    "offer_type": "coupon",
     "scope": [
       "Evaluation Accounts"
     ],
-    "date_published": "2026-01-05",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-05",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 10328,
     "title": "Christmas Deal: 85% Off 1-Phase Challenges + BOGO",
-    "offer_type": "coupon",
+    "date_published": "2025-12-14",
+    "date_exp": "Ended",
     "discount_value": "85%",
+    "last_verified": "2025-12-14",
+    "offer_type": "coupon",
     "scope": [
       "Thunderbolt 1-Phase Challenges ($5K - $1M)"
     ],
-    "date_published": "2025-12-14",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-14",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 10271,
     "title": "Christmas Offer: 85% OFF + BOGO + Giveaway",
-    "offer_type": "coupon",
+    "date_published": "2025-12-11",
+    "date_exp": "Ended",
     "discount_value": "85%",
+    "last_verified": "2025-12-11",
+    "offer_type": "coupon",
     "scope": [
       "Evaluation Accounts."
     ],
-    "date_published": "2025-12-11",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-11",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 9601,
     "title": "Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000",
-    "offer_type": "coupon",
-    "discount_value": "90%",
-    "scope": [
-      "On Eligible Accounts"
-    ],
     "date_published": "2025-11-07",
     "date_exp": "Ended",
-    "last_verified": "2025-11-07",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/",
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
-    "deal_id": 9439,
-    "title": "Halloween: 90% OFF + BOGO (Less Than 24 Hours Left)",
-    "offer_type": "coupon",
     "discount_value": "90%",
+    "last_verified": "2025-11-07",
+    "offer_type": "coupon",
     "scope": [
       "On Eligible Accounts"
     ],
-    "date_published": "2025-10-29",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-29",
-    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/",
+    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Upcomers",
     "prop_firm_slug": "upcomers",
     "standing_code": "PFD",
-    "code": "PFD"
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
+    "deal_id": 9439,
+    "title": "Halloween: 90% OFF + BOGO (Less Than 24 Hours Left)",
+    "date_published": "2025-10-29",
+    "date_exp": "Ended",
+    "discount_value": "90%",
+    "last_verified": "2025-10-29",
+    "offer_type": "coupon",
+    "scope": [
+      "On Eligible Accounts"
+    ],
+    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/",
+    "code": "PFD",
+    "code_state": "standing"
   },
   {
+    "prop_firm": "Upcomers",
+    "prop_firm_slug": "upcomers",
+    "standing_code": "PFD",
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
     "deal_id": 8996,
     "title": "BOGO Promo: 75% Off All Plans (Unlimited Usage)",
-    "offer_type": "coupon",
+    "date_published": "2025-10-08",
+    "date_exp": "Ended",
     "discount_value": "75%",
+    "last_verified": "2025-10-08",
+    "offer_type": "coupon",
     "scope": [
       "All Plans (Unlimited Usage)"
     ],
-    "date_published": "2025-10-08",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-08",
     "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-bogo-promo-75-off-all-plans-unlimited-usage/",
-    "prop_firm": "Upcomers",
-    "prop_firm_slug": "upcomers",
-    "standing_code": "PFD",
-    "code": "PFD"
+    "code": "PFD",
+    "code_state": "standing"
   }
 ]
