@@ -27,7 +27,7 @@ As of 2026-09-21, Upcomers deals run up to 90% OFF with code PFD, which works an
 > — Upcomers, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/upcomers.com)
 
 - Code: PFD
-- Discount: Up to 90% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 90% off (what the code takes off the firm's newest deal; it applies to every Upcomers deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-09-21
 - Trustpilot: 2.9/5 (591 reviews)
