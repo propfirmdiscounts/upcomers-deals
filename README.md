@@ -1,30 +1,48 @@
-# Upcomers - Discount Codes & Deal History
+# Upcomers Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-09-21, Upcomers deals run up to 90% OFF with code PFD, which works any time — the newest is **Black Friday 90% Off & Bonus Evaluations**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/upcomers/
+> Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
+> With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
+>
+> — Upcomers, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/upcomers.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 90% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-09-21
+- Trustpilot: 2.9/5 (591 reviews)
+- Activate: https://propfirmdiscount.com/go/upcomers
+- Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **90% off** on Upcomers challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Upcomers evaluation accounts.
+## Current Upcomers deal: Black Friday 90% Off & Bonus Evaluations
+
+- Published: 2026-09-21
+- Offer ends: Ended
+- Offer: 90% off
+- Scope: Classic Challenge Accounts, New Customers
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/
+
+## Upcomers discount code FAQ
+
+**What is the Upcomers discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 90% off Upcomers challenges and accounts.
+
+**Does the Upcomers discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Upcomers deal?**
+
+**Black Friday 90% Off & Bonus Evaluations** — published 2026-09-21. Offer ends: Ended. The offer is 90% off.
 
 ---
 
-## Latest Deal
-
-### Upcomers - Black Friday 90% Off & Bonus Evaluations
-
-**Published:** 2026-09-21  
-**Offer ends:** Ended  
-**Discount:** 90% off  
-**Scope:** Classic Challenge Accounts, New Customers  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **19**
 
@@ -59,19 +77,20 @@ Total deals tracked: **19**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Upcomers** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Upcomers** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/upcomers/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/upcomers/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
