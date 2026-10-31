@@ -22,6 +22,7 @@ As of 2026-09-21, Upcomers deals run up to 90% OFF with code PFD, which works an
 - Published: 2026-09-21
 - Offer ends: Ended
 - Offer: 90% off
+- Event: Black Friday
 - Scope: Classic Challenge Accounts, New Customers
 - Code: PFD
 - Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/
@@ -50,7 +51,7 @@ Total deals tracked: **19**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-09-21 | Black Friday 90% Off & Bonus Evaluations | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
+| 2026-09-21 | Black Friday 90% Off & Bonus Evaluations | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
 | 2026-09-15 | Free Bonus Account on $50K+ Evaluations | Free Bonus Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) |
 | 2026-09-03 | 90% Off Perpetuals Evaluation Cost | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/) |
 | 2026-05-14 | Spring Friday Up to 90% Off Challenge Fees Up To $1,500,000 | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/) |
@@ -61,18 +62,18 @@ Total deals tracked: **19**
 | 2026-04-01 | 80% Discount on Vanguard and Oracle Instant Funding Models | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-discount-vanguard-oracle/) |
 | 2026-03-04 | Spring Promotion: Up to 85% Off and Buy 1 Get 1 Free Accounts Up to $1,000,000 | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-promotion-85-off-bogo/) |
 | 2026-02-19 | Vanguard Instant Funding Accounts Start at $99 | Only $99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-vanguard-instant-funding-99/) |
-| 2026-01-22 | Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) |
+| 2026-01-22 | Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement | 90% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) |
 | 2026-01-13 | Challenge Pricing: 75% Off + Buy 1 Get 1 Free | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-75-off-bogo-promotion/) |
-| 2026-01-05 | Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/) |
+| 2026-01-05 | Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/) |
 
 ### 2025 (5 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-14 | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) |
-| 2025-12-11 | Christmas Offer: 85% OFF + BOGO + Giveaway | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/) |
-| 2025-11-07 | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) |
-| 2025-10-29 | Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/) |
+| 2025-12-14 | Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) |
+| 2025-12-11 | Christmas Offer: 85% OFF + BOGO + Giveaway | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/) |
+| 2025-11-07 | Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) |
+| 2025-10-29 | Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/) |
 | 2025-10-08 | BOGO Promo: 75% Off All Plans (Unlimited Usage) | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-bogo-promo-75-off-all-plans-unlimited-usage/) |
 
 ---
