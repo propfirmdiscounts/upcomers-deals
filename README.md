@@ -1,6 +1,6 @@
 # Upcomers Discount Code
 
-As of 2026-09-21, Upcomers deals run up to 90% OFF with code PFD, which works any time — the newest is **Black Friday 90% Off & Bonus Evaluations**.
+As of 2026-09-21, Upcomers deals run up to 90% OFF with code PFD, which works any time — the newest is Black Friday 90% Off & Bonus Evaluations.
 
 > Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
 > With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
