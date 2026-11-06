@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13166,
+    "title": "Black Friday $99 Thunderbolt + 2 Free Accounts",
+    "offer_type": "coupon",
+    "discount_value": "90%",
+    "scope": [
+      "$100K Thunderbolt Challenge (1-Phase) At $99; $50K At $49; Two Extra Accounts Free"
+    ],
+    "date_published": "2026-11-06",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-06",
+    "post_url": "https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/",
+    "prop_firm": "Upcomers",
+    "prop_firm_slug": "upcomers",
+    "standing_code": "PFD",
+    "standing_discount": "90%",
+    "activation_link": "https://propfirmdiscount.com/go/upcomers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/upcomers/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12806,
     "title": "Black Friday 90% Off & Bonus Evaluations",
     "offer_type": "coupon",
