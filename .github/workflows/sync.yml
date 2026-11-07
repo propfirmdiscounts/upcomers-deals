@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: upcomers-discount-codes
+  HF_NAMESPACE: upcomers
+  HF_REPO_NAME: upcomers-deals
   FIRM_SLUG: upcomers
   DEALSTORE_ID: 159
   FIRM_NAME: Upcomers
