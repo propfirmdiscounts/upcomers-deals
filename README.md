@@ -1,6 +1,6 @@
 # Upcomers - Discount Codes & Deal History
 
-As of 2026-11-06, Upcomers deals run up to 90% OFF with code PFD, which works any time — the newest is Black Friday $99 Thunderbolt + 2 Free Accounts.
+As of 2026-11-11, Upcomers deals run up to 93% OFF with code PFD, which works any time — the newest is Black Friday Vol. 2: Up to 93% Off.
 
 > Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
 > With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
@@ -8,30 +8,30 @@ As of 2026-11-06, Upcomers deals run up to 90% OFF with code PFD, which works an
 > — Upcomers, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/upcomers.com)
 
 - Code: PFD
-- Discount: Up to 90% off (what the code takes off the firm's newest deal; it applies to every Upcomers deal, whatever form that deal is stated in)
+- Discount: Up to 93% off (what the code takes off the firm's newest deal; it applies to every Upcomers deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-06
+- Last deal published: 2026-11-11
 - Trustpilot: 2.9/5 (580 reviews)
 - Activate: https://propfirmdiscount.com/go/upcomers
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Upcomers deal: Black Friday $99 Thunderbolt + 2 Free Accounts
+## Current Upcomers deal: Black Friday Vol. 2: Up to 93% Off
 
-- Published: 2026-11-06
+- Published: 2026-11-11
 - Offer ends: Limited time
-- Offer: 90% off
+- Offer: 93% off
 - Event: Black Friday
-- Scope: $100K Thunderbolt Challenge (1-Phase) At $99; $50K At $49; Two Extra Accounts Free
+- Scope: Accounts, 50K 2-Step Odyssey
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/
+- Deal page: https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/
 
 ## Upcomers discount code FAQ
 
 **What is the Upcomers discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 90% off Upcomers challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 93% off Upcomers challenges and accounts.
 
 **Does the Upcomers discount code expire?**
 
@@ -39,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Upcomers deal?**
 
-**Black Friday $99 Thunderbolt + 2 Free Accounts** — published 2026-11-06. Offer ends: Limited time. The offer is 90% off.
+**Black Friday Vol. 2: Up to 93% Off** — published 2026-11-11. Offer ends: Limited time. The offer is 93% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **20**
+Total deals tracked: **21**
 
-### 2026 (15 deals)
+### 2026 (16 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-11 | Black Friday Vol. 2: Up to 93% Off | 93% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) |
 | 2026-11-06 | Black Friday $99 Thunderbolt + 2 Free Accounts | 90% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) |
 | 2026-09-21 | Black Friday 90% Off & Bonus Evaluations | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
 | 2026-09-15 | Free Bonus Account on $50K+ Evaluations | Free Bonus Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) |
