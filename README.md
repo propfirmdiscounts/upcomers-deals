@@ -11,7 +11,7 @@ As of 2026-11-11, Upcomers deals run up to 93% OFF with code PFD, which works an
 - Discount: Up to 93% off (what the code takes off the firm's newest deal; it applies to every Upcomers deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-11
-- Trustpilot: 2.9/5 (580 reviews)
+- Trustpilot: 2.8/5 (584 reviews)
 - Activate: https://propfirmdiscount.com/go/upcomers
 - Firm page: https://propfirmdiscount.com/prop-firm/upcomers/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
