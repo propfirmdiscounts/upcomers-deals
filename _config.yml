@@ -1,0 +1,6 @@
+title: "Upcomers - Discount Codes & Deal History"
+description: "As of November 2026, Upcomers deals offer 93% OFF with code PFD, which can be applied on the checkout page anytime."
+url: "https://propfirmdiscounts.github.io"
+baseurl: "/upcomers-deals"
+plugins:
+  - jekyll-seo-tag
