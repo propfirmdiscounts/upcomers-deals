@@ -1,6 +1,6 @@
-# Upcomers - Discount Codes & Deal History
+# Upcomers Discount Code & Deal History
 
-As of November 2026, the verified Upcomers discount code is PFD — 90% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday Vol. 2: Up to 93% Off with code PFD".
+As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday Vol. 2: Up to 93% Off with code PFD".
 
 > Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
 > With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
@@ -9,7 +9,7 @@ As of November 2026, the verified Upcomers discount code is PFD — 90% OFF, whi
 
 - Code: PFD
 - Discount: 93% off (what the code takes off the firm's newest deal; it applies to every Upcomers deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-11
 - Trustpilot: [2.8/5 (584 reviews)](https://www.trustpilot.com/review/upcomers.com)
 - GitHub repository: [Upcomers Deals Repository](https://github.com/propfirmdiscounts/upcomers-deals)
@@ -18,7 +18,7 @@ As of November 2026, the verified Upcomers discount code is PFD — 90% OFF, whi
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Upcomers API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Upcomers deal: Black Friday Vol. 2: Up to 93% Off with code PFD
+## Latest Upcomers deal: Black Friday Vol. 2: Up to 93% Off with code PFD
 
 - Published: 2026-11-11
 - Offer ends: Limited time
@@ -28,7 +28,7 @@ As of November 2026, the verified Upcomers discount code is PFD — 90% OFF, whi
 - Code: PFD
 - Deal page: [Upcomers Deal Page](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/)
 
-## Upcomers discount code FAQ
+## Upcomers Discount Code & Deals FAQ
 
 **What is the Upcomers discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Upcomers Deal History
 
 Total deals tracked: **21**
 
@@ -81,7 +81,7 @@ Total deals tracked: **21**
 
 ---
 
-## About this repository
+## About the Upcomers Deals Dataset
 
 This repository mirrors every deal **Upcomers** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -89,7 +89,7 @@ This repository mirrors every deal **Upcomers** has published on PropFirmDiscoun
 - Prop firm profile: [Upcomers Profile](https://propfirmdiscount.com/prop-firm/upcomers/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/upcomers-deals.json`
+## Upcomers Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -121,13 +121,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
