@@ -1,6 +1,6 @@
 # Upcomers - Discount Codes & Deal History
 
-As of November 2026, Upcomers deals offer 93% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Upcomers discount code is PFD — 90% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday Vol. 2: Up to 93% Off with code PFD".
 
 > Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
 > With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
@@ -12,11 +12,11 @@ As of November 2026, Upcomers deals offer 93% OFF with code PFD, which can be ap
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-11
 - Trustpilot: [2.8/5 (584 reviews)](https://www.trustpilot.com/review/upcomers.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/upcomers-deals](https://github.com/propfirmdiscounts/upcomers-deals)
-- Activate: [https://propfirmdiscount.com/go/upcomers](https://propfirmdiscount.com/go/upcomers)
-- Firm page: [https://propfirmdiscount.com/prop-firm/upcomers/](https://propfirmdiscount.com/prop-firm/upcomers/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Upcomers Deals Repository](https://github.com/propfirmdiscounts/upcomers-deals)
+- Activate: [Activate Upcomers Discount Code](https://propfirmdiscount.com/go/upcomers)
+- Firm page: [Upcomers Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/upcomers/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Upcomers API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Upcomers deal: Black Friday Vol. 2: Up to 93% Off with code PFD
 
@@ -26,7 +26,7 @@ As of November 2026, Upcomers deals offer 93% OFF with code PFD, which can be ap
 - Event: Black Friday
 - Scope: Accounts, 50K 2-Step Odyssey
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/)
+- Deal page: [Upcomers Deal Page](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/)
 
 ## Upcomers discount code FAQ
 
@@ -85,9 +85,9 @@ Total deals tracked: **21**
 
 This repository mirrors every deal **Upcomers** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/upcomers/](https://propfirmdiscount.com/prop-firm/upcomers/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Upcomers Profile](https://propfirmdiscount.com/prop-firm/upcomers/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/upcomers-deals.json`
 
@@ -130,4 +130,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
