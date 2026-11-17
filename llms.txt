@@ -1,4 +1,4 @@
-# Upcomers Discount Codes
+# Upcomers Discount Code & Deals History
 
 This dataset tracks historical deal observations for Upcomers from PropFirmDiscount.com.
 

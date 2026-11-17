@@ -1,4 +1,4 @@
-# Upcomers Discount Code & Deal History
+# Upcomers Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday Vol. 2: Up to 93% Off with code PFD".
 
@@ -12,7 +12,7 @@ As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, whi
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-11
 - Trustpilot: [2.8/5 (590 reviews)](https://www.trustpilot.com/review/upcomers.com)
-- GitHub repository: [Upcomers Deals Repository](https://github.com/propfirmdiscounts/upcomers-deals)
+- GitHub repository: [Upcomers Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/upcomers-deals)
 - Activate: [Activate Upcomers Discount Code](https://propfirmdiscount.com/go/upcomers)
 - Firm page: [Upcomers Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/upcomers/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -28,7 +28,7 @@ As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, whi
 - Code: PFD
 - Deal page: [Upcomers Deal Page](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/)
 
-## Upcomers Discount Code & Deals FAQ
+## Upcomers Discount Code & Deals History FAQ
 
 **What is the Upcomers discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Upcomers Deal History
+## Upcomers Deals History
 
 Total deals tracked: **21**
 
@@ -81,7 +81,7 @@ Total deals tracked: **21**
 
 ---
 
-## About the Upcomers Deals Dataset
+## About the Upcomers Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Upcomers** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -89,7 +89,7 @@ This repository mirrors every deal **Upcomers** has published on PropFirmDiscoun
 - Prop firm profile: [Upcomers Profile](https://propfirmdiscount.com/prop-firm/upcomers/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Upcomers Deal Dataset: Field Definitions
+## Upcomers Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
