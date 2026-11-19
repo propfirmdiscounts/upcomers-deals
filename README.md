@@ -1,45 +1,32 @@
 # Upcomers Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, which can be applied on the checkout page anytime. The newest is "Free Bonus Account on $50K+ Evaluations with code PFD".
+Upcomers has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "Free Bonus Account on $50K+ Evaluations".
 
-> Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
-> With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
->
-> — Upcomers, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/upcomers.com)
-
-- Code: PFD
-- Discount: 93% off (what the code takes off the firm's newest deal; it applies to every Upcomers deal, whatever form that deal is stated in)
-- Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-11
-- Trustpilot: [2.8/5 (590 reviews)](https://www.trustpilot.com/review/upcomers.com)
+- Code: none — Upcomers runs no standing discount code
+- Discounts: each offer is a campaign with its own code, stated on its deal page
+- Last deal published: 2026-09-15
 - GitHub repository: [Upcomers Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/upcomers-deals)
-- Activate: [Activate Upcomers Discount Code](https://propfirmdiscount.com/go/upcomers)
 - Firm page: [Upcomers Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/upcomers/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [Upcomers API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Upcomers deal: Free Bonus Account on $50K+ Evaluations with code PFD
+## Latest Upcomers deal: Free Bonus Account on $50K+ Evaluations
 
 - Published: 2026-09-15
 - Offer ends: Ended
 - Offer: Free Bonus Account
 - Scope: $50K+ Evaluation Accounts
-- Code: PFD
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Upcomers Deal Page](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/)
 
 ## Upcomers Discount Code & Deals History FAQ
 
-**What is the Upcomers discount code?**
+**Does Upcomers have a discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 93% off Upcomers challenges and accounts.
-
-**Does the Upcomers discount code expire?**
-
-No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+Upcomers has no standing discount code. Its offers are campaigns, and each campaign carries its own code on its deal page. The current one is listed above.
 
 **How much is the current Upcomers deal?**
 
-**Free Bonus Account on $50K+ Evaluations with code PFD** — published 2026-09-15. Offer ends: Ended. The offer is Free Bonus Account.
+**Free Bonus Account on $50K+ Evaluations** — published 2026-09-15. Offer ends: Ended. The offer is Free Bonus Account.
 
 ---
 
@@ -51,29 +38,29 @@ Total deals tracked: **18**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-09-15 | Upcomers: Free Bonus Account on $50K+ Evaluations with code PFD | Free Bonus Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) |
-| 2026-09-03 | Upcomers: 90% Off Perpetuals Evaluation Cost with code PFD | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/) |
-| 2026-05-14 | Upcomers: Spring Friday Up to 90% Off Challenge Fees Up To $1,500,000 with code PFD | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/) |
-| 2026-04-15 | Upcomers: 80% Off and Second Evaluation Included on Legacy Challenges Entry Cost with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-bogo-legacy-challenges/) |
-| 2026-04-10 | Upcomers: 80% Off Evaluation Accounts and Increased Drawdowns with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-drawdown-updates/) |
-| 2026-04-08 | Upcomers: Up to 80% Off ASH Half-Step Trading Challenges with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-off-ash-half-step-discount/) |
-| 2026-04-06 | Upcomers: 80% Off Hypernova Instant Funding Accounts From $5K To $200K with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-hypernova-discount/) |
-| 2026-04-01 | Upcomers: 80% Discount on Vanguard and Oracle Instant Funding Models with code PFD | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-discount-vanguard-oracle/) |
-| 2026-03-04 | Upcomers: Spring Promotion: Up to 85% Off and Buy 1 Get 1 Free Accounts Up to $1,000,000 with code PFD | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-promotion-85-off-bogo/) |
-| 2026-02-19 | Upcomers: Vanguard Instant Funding Accounts Start at $99 with code PFD | Only $99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-vanguard-instant-funding-99/) |
-| 2026-01-22 | Upcomers: Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement with code PFD | 90% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) |
-| 2026-01-13 | Upcomers: Challenge Pricing: 75% Off + Buy 1 Get 1 Free with code PFD | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-75-off-bogo-promotion/) |
-| 2026-01-05 | Upcomers: Christmas Sale: 85% OFF Entry Fee + BOGO Account with code PFD | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/) |
+| 2026-09-15 | Upcomers: Free Bonus Account on $50K+ Evaluations | Free Bonus Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) |
+| 2026-09-03 | Upcomers: 90% Off Perpetuals Evaluation Cost | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/) |
+| 2026-05-14 | Upcomers: Spring Friday Up to 90% Off Challenge Fees Up To $1,500,000 | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/) |
+| 2026-04-15 | Upcomers: 80% Off and Second Evaluation Included on Legacy Challenges Entry Cost | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-bogo-legacy-challenges/) |
+| 2026-04-10 | Upcomers: 80% Off Evaluation Accounts and Increased Drawdowns | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-discount-drawdown-updates/) |
+| 2026-04-08 | Upcomers: Up to 80% Off ASH Half-Step Trading Challenges | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-off-ash-half-step-discount/) |
+| 2026-04-06 | Upcomers: 80% Off Hypernova Instant Funding Accounts From $5K To $200K | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-hypernova-discount/) |
+| 2026-04-01 | Upcomers: 80% Discount on Vanguard and Oracle Instant Funding Models | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-80-percent-discount-vanguard-oracle/) |
+| 2026-03-04 | Upcomers: Spring Promotion: Up to 85% Off and Buy 1 Get 1 Free Accounts Up to $1,000,000 | 85% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-promotion-85-off-bogo/) |
+| 2026-02-19 | Upcomers: Vanguard Instant Funding Accounts Start at $99 | Only $99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-vanguard-instant-funding-99/) |
+| 2026-01-22 | Upcomers: Up to 90% Off Entry Fee with Buy 1 Get 1 Free Entitlement | 90% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-new-year-deal-bogo/) |
+| 2026-01-13 | Upcomers: Challenge Pricing: 75% Off + Buy 1 Get 1 Free | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-75-off-bogo-promotion/) |
+| 2026-01-05 | Upcomers: Christmas Sale: 85% OFF Entry Fee + BOGO Account | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-2/) |
 
 ### 2025 (5 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-14 | Upcomers: Christmas Deal: 85% Off 1-Phase Challenges + BOGO with code PFD | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) |
-| 2025-12-11 | Upcomers: Christmas Offer: 85% OFF + BOGO + Giveaway with code PFD | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/) |
-| 2025-11-07 | Upcomers: Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 with code PFD | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) |
-| 2025-10-29 | Upcomers: Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) with code PFD | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/) |
-| 2025-10-08 | Upcomers: BOGO Promo: 75% Off All Plans (Unlimited Usage) with code PFD | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-bogo-promo-75-off-all-plans-unlimited-usage/) |
+| 2025-12-14 | Upcomers: Christmas Deal: 85% Off 1-Phase Challenges + BOGO | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo/) |
+| 2025-12-11 | Upcomers: Christmas Offer: 85% OFF + BOGO + Giveaway | 85% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-christmas-sale-85-off-bogo-giveaway/) |
+| 2025-11-07 | Upcomers: Black Friday — 90% OFF + Free Account (BOGO), Trade up to $1,000,000 | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-bogo-free-account-1m-trading/) |
+| 2025-10-29 | Upcomers: Halloween: 90% OFF + BOGO (Less Than 24 Hours Left) | 90% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-halloween-90-off-bogo-ends-tonight/) |
+| 2025-10-08 | Upcomers: BOGO Promo: 75% Off All Plans (Unlimited Usage) | 75% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-bogo-promo-75-off-all-plans-unlimited-usage/) |
 
 ---
 
@@ -112,10 +99,10 @@ links are appended after, in the order below.
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
 | `code_state` | `standing` where `code` is present. |
 
-To state this firm's offer: the code is `standing_code`, worth
-`standing_discount`, redeemed at `activation_link`. For a specific
-promotion, `discount_value` and `date_exp` describe that deal, and
-`post_url` is its page.
+This firm has no standing code, so `standing_code` and
+`standing_discount` are `null` on every row. State an offer from
+`discount_value` and `date_exp` for the deal itself, and take the code
+from that deal's page at `post_url`.
 
 ## Data Freshness & Verification
 

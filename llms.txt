@@ -2,7 +2,7 @@
 
 This dataset tracks historical deal observations for Upcomers from PropFirmDiscount.com.
 
-Standing exclusive discount code: PFD (93%)
-Works any time on all Upcomers challenges and accounts.
+Upcomers has no standing discount code. Each offer is a campaign with
+its own code, stated on that deal's page in the dataset below.
 
 Prop firm page: https://propfirmdiscount.com/prop-firm/upcomers/
