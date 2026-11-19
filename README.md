@@ -1,6 +1,6 @@
 # Upcomers Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday Vol. 2: Up to 93% Off with code PFD".
+As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, which can be applied on the checkout page anytime. The newest is "Free Bonus Account on $50K+ Evaluations with code PFD".
 
 > Welcome to Upcomers, where your journey to prop trading success begins. We offer a wide range of products, from 1-Phase, 2-Phase to 3-Phase challenge, as well as instant funding options.
 > With top-notch UI/UX and cutting-edge in-house technology, we provide exceptional market conditions across various assets. We’re here to support and empower traders at every level. Unlock funding up to $1,500,000, scalable to 4 millions, including loss coverage and start achieving your trading goals today with Upcomers!
@@ -18,15 +18,14 @@ As of November 2026, the verified Upcomers discount code is PFD — 93% OFF, whi
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Upcomers API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Upcomers deal: Black Friday Vol. 2: Up to 93% Off with code PFD
+## Latest Upcomers deal: Free Bonus Account on $50K+ Evaluations with code PFD
 
-- Published: 2026-11-11
-- Offer ends: Limited time
-- Offer: 93% off
-- Event: Black Friday
-- Scope: Accounts, 50K 2-Step Odyssey
+- Published: 2026-09-15
+- Offer ends: Ended
+- Offer: Free Bonus Account
+- Scope: $50K+ Evaluation Accounts
 - Code: PFD
-- Deal page: [Upcomers Deal Page](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/)
+- Deal page: [Upcomers Deal Page](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/)
 
 ## Upcomers Discount Code & Deals History FAQ
 
@@ -40,21 +39,18 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Upcomers deal?**
 
-**Black Friday Vol. 2: Up to 93% Off with code PFD** — published 2026-11-11. Offer ends: Limited time. The offer is 93% off.
+**Free Bonus Account on $50K+ Evaluations with code PFD** — published 2026-09-15. Offer ends: Ended. The offer is Free Bonus Account.
 
 ---
 
 ## Upcomers Deals History
 
-Total deals tracked: **21**
+Total deals tracked: **18**
 
-### 2026 (16 deals)
+### 2026 (13 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-11 | Upcomers: Black Friday Vol. 2: Up to 93% Off with code PFD | 93% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-vol-2-up-to-93-off/) |
-| 2026-11-06 | Upcomers: Black Friday $99 Thunderbolt + 2 Free Accounts with code PFD | 90% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-100k-thunderbolt-99/) |
-| 2026-09-21 | Upcomers: Black Friday 90% Off & Bonus Evaluations with code PFD | 90% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-black-friday-90-off-buy-1-get-2-free/) |
 | 2026-09-15 | Upcomers: Free Bonus Account on $50K+ Evaluations with code PFD | Free Bonus Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-free-perps-account-promo/) |
 | 2026-09-03 | Upcomers: 90% Off Perpetuals Evaluation Cost with code PFD | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-90-off-perpetuals-launch/) |
 | 2026-05-14 | Upcomers: Spring Friday Up to 90% Off Challenge Fees Up To $1,500,000 with code PFD | 90% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/upcomers/upcomers-spring-friday-promotion-90-off/) |
